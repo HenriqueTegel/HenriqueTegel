@@ -25,12 +25,6 @@ Full-stack developer based in Porto Alegre, Brazil.
 <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="jest" />
 </div>
 
-## GitHub Stats 📈
-
-<img src="https://github-readme-stats.vercel.app/api?username=HenriqueTegel&show_icons=true&count_private=true" alt="Henrique Tegel's GitHub Stats" vertical-align="middle"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueTegel" vertical-align="middle"/>
-
 ## Languages 🌐
 
 🇧🇷 🇬🇧
